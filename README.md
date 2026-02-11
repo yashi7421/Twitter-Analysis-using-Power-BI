@@ -49,6 +49,18 @@ Top performing tweets (by URL clicks):
   - Tweet 5 – 93 clicks
 This helps identify high-performing content.
 
+## 📸 Dashboard Preview:
+
+## 🔹 Main Dashboard View:
+<p align="center">
+  <img src="images/Dashboard_1.jpg" width="800"/>
+</p>
+
+## 🔹 Engagement Analysis View:
+<p align="center">
+  <img src="images/Dashboard_2.jpg" width="800"/>
+</p>
+
 ## 🛠 Tools & Technologies Used:
   - Python (Data Cleaning & Preprocessing)
   - Pandas (Data Analysis)
@@ -86,7 +98,5 @@ This helps identify high-performing content.
 ## 🔮 Future Improvements:
  - Sentiment Analysis using NLP
  - Hashtag performance prediction
-
-Time-based engagement forecasting
-
-Automated data refresh pipeline
+ - Time-based engagement forecasting
+ - Automated data refresh pipeline
