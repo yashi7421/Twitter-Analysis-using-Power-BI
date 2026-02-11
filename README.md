@@ -77,10 +77,10 @@ This helps identify high-performing content.
 
 ## 📂 Project Structure:
 
-  ├── SocialMedia.csv        # Dataset
-  ├── socialmedia.ipynb      # Data preprocessing notebook
-  ├── Dashboard.pdf          # Final dashboard export
-  ├── README.md              # Project documentation
+├── SocialMedia.csv        # Dataset
+├── socialmedia.ipynb      # Data preprocessing notebook
+├── Dashboard.pdf          # Final dashboard export
+├── README.md              # Project documentation
 
 ## 📊 Business Insights Derived:
   - Mid-week content performs better than weekend posts.
