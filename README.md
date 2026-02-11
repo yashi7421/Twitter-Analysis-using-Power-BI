@@ -77,10 +77,17 @@ This helps identify high-performing content.
 
 ## 📂 Project Structure:
 
-├── SocialMedia.csv        # Dataset
-├── socialmedia.ipynb      # Data preprocessing notebook
-├── Dashboard.pdf          # Final dashboard export
-├── README.md              # Project documentation
+## 📂 Project Structure
+
+| File / Folder Name        | Description                          |
+|----------------------------|--------------------------------------|
+| images/                    | Dashboard screenshots                |
+| ├── dashboard_page1.png    | Main dashboard view                  |
+| ├── dashboard_page2.png    | Engagement analysis view             |
+| SocialMedia.csv            | Dataset used for analysis            |
+| socialmedia.ipynb          | Data preprocessing notebook (Python) |
+| Dashboard.pdf              | Final dashboard export               |
+| README.md                  | Project documentation                |
 
 ## 📊 Business Insights Derived:
   - Mid-week content performs better than weekend posts.
