@@ -53,12 +53,12 @@ This helps identify high-performing content.
 
 ## 🔹 Main Dashboard View:
 <p align="center">
-  <img src="images/Dashboard_1.jpg" width="800"/>
+  <img src="images/Dashboard_01.jpg" width="800"/>
 </p>
 
 ## 🔹 Engagement Analysis View:
 <p align="center">
-  <img src="images/Dashboard_2.jpg" width="800"/>
+  <img src="images/Dashboard_02.jpg" width="800"/>
 </p>
 
 ## 🛠 Tools & Technologies Used:
